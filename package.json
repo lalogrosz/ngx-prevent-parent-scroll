@@ -1,6 +1,6 @@
 {
   "name": "ngx-prevent-parent-scroll",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Prevents scrolling in the parent container when child container already has a scroll.",
   "license": "MIT",
   "readmeFilename": "README.md",
